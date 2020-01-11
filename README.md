@@ -4,3 +4,9 @@ Reddit.com is a forum and content aggregator. Our goal is to classify a reddit c
 
 ## Dataset
 The reddit comment dataset includes a comment id, the comment text and the subreddit from where the comment came. There are 20 subreddits/categories: hockey, nba, leagueoflegends, soccer, funny, movies, anime, Overwatch, trees, GlobalOffensive, nfl, AskReddit, gameofthrones, conspiracy, worldnews, wow, europe, canada, Music, baseball. The dataset is very balanced with each category having 3500 sample comments, for a total of 70000 samples.
+
+---
+
+[View the full report](https://github.com/dorhelium/RedditClassification/blob/master/Report.pdf)
+
+---
